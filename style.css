@@ -1,0 +1,49 @@
+*{
+	padding:0px;
+	margin:6px;
+}
+
+.cv{
+	width: 900px;
+	height: 300px;
+	margin: 50px auto 50px auto;
+}
+.text-area{
+	margin:50px;
+}
+.image-line{
+    padding:20%;
+    padding-bottom:40%; 
+}
+.img-margin{
+    margin-top:0%;
+}
+
+.profile-img{
+    width:150px;
+    height:155px;
+	display: Flex;
+}
+th, td {
+  border:1px solid #000;
+ boder-collapse: collapse ;
+}
+.Career{
+	color: blue;
+}
+.ICT{
+	color: chocolate;
+}
+.Education{
+	color: darkgreen;
+}
+.Education{
+	color: darkblue;
+}
+
+.language{
+	color: crimson;
+}
+.reffrence{
+	color: cadetblue;
+}
